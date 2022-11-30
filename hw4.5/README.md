@@ -20,6 +20,6 @@ This is assignment 4,compare two different way to solve a question
 
 ## Compile & Run
 
-1. g++ hw4_main.cpp -o main
-2. ./main
+1. g++ hw4_main.cpp -o test
+2. ./test
   
